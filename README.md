@@ -18,10 +18,9 @@ __"Action Camera Manager Plugin"__ is a camera plugin that can be used for vario
 
 ## Istallation
 
- - Download the plugin [here](https://drive.google.com/file/d/1NrxuZmrS6tuzRs4NZ0Z7zCMEFtqMklzb/view?usp=sharing)
+ - Download the plugin [here](https://www.unrealengine.com/marketplace/ko/product/6b542e9ad0b64686b1bf31dca9276316)
  - Check Wiki!
 
 ## Links
 * [Documentation](https://github.com/Goaway-1/Action-Camera-Manager-Plugin/wiki)
-* [Unreal Engine MarketPlace](https://www.unrealengine.com/marketplace/ko/product/6b542e9ad0b64686b1bf31dca9276316)
 * [Preview video](https://youtu.be/iWDMIVvR27I)
