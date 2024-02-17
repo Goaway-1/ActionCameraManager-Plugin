@@ -22,5 +22,5 @@ __"Action Camera Manager Plugin"__ is a camera plugin that can be used for vario
  - Check Wiki!
 
 ## Links
-* [Documentation](https://github.com/Goaway-1/Action-Camera-Manager-Plugin/wiki)
+* [Documentation](https://github.com/Goaway-1/ActionCameraManager-Plugin/wiki)
 * [Preview video](https://youtu.be/iWDMIVvR27I)
